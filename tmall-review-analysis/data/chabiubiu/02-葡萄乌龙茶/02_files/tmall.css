@@ -1,0 +1,119 @@
+#tbid-module{width:430px}
+#tbid-module .tbid-clear,#tbid-module .tbid-clearfix{height:1%\9}
+#tbid-module .tbid-clear:after,#tbid-module .tbid-clearfix:after{clear:both;content:" ";display:block;height:0}
+#tbid-module .tbid-btn-add .paimai-button,#tbid-module .tbid-btn-bid .paimai-button,#tbid-module .tbid-btn-buy .paimai-button,#tbid-module .tbid-btn-wait .paimai-button{background:url(//gtms03.alicdn.com/tps/i3/T1aPt_XoxXXXXXXXXX-635-144.png) no-repeat;cursor:pointer}
+body #tbid-module .tbid-btn-bid{*overflow:visible;_margin-right:10px}
+body #tbid-module .tbid-btn-container{*right:0}
+body #tbid-module .tbid-btn-bid:before{content:" ";display:table}
+body #tbid-module .tbid-btn-bid:after{content:" ";display:table}
+body #tbid-module .tbid-key{overflow:visible}
+body #tbid-module .tbid-key:before{content:" ";display:table}
+body #tbid-module .tbid-key:after{content:" ";display:table;clear:both}
+body #tbid-module .tbid-btn-bid .paimai-button-bzj{background:url(//gtms03.alicdn.com/tps/i3/TB1ePqRGFXXXXX1XXXXbr_DGpXX-160-41.png) no-repeat 0 0;width:160px;height:41px;text-indent:-2000px}
+#J_YJ-tips{background-color:#ffffe5;border:1px solid #ffcb7f;display:block;overflow:hidden;padding:0 4px;position:absolute;top:54px;right:60px;width:215px}
+#bd #J_YJ-tips .yj-icon-tips{background-image:url(//gtms02.alicdn.com/tps/i2/T15_0.FCdaXXaVlzE0-127-100.jpg);background-repeat:no-repeat;background-position:-90px -36px;display:block;margin-top:4px;float:left;width:13px;height:16px}
+#J_YJ-tips p{color:#404040;display:block;font-size:12px;float:left;line-height:24px;height:24px}
+#J_YJ-tips .yj-icon-close{background-image:url(//gtms02.alicdn.com/tps/i2/T15_0.FCdaXXaVlzE0-127-100.jpg);background-repeat:no-repeat;background-position:-90px -54px;cursor:pointer;margin-right:5px;margin-top:8px;display:block;float:right;width:9px;height:9px}
+#tbid-module .tbid-btn-over .paimai-button,.J_PaiDialog .ks-dialog-hd .ks-dialog-close{background:url(//img.alicdn.com/tps/TB1N39KIpXXXXaTXFXXXXXXXXXX.png) 0 0 no-repeat transparent}
+#tbid-module .tbid-btn-over .paimai-button{background-position:-5px -24px}
+#tbid-module #tbid-sau{display:block;float:none;width:100%}
+#tbid-module ul.tbid-meta{position:relative;display:block;width:100%;float:none;overflow:hidden}
+#tbid-module #tbid-sau li{line-height:32px;float:none;display:list-item;color:#6C6C6C}
+#tbid-module ul.tbid-meta span{text-align:right;display:block;float:left;width:auto}
+#tbid-module ul.tbid-meta.tbid-dutch span{margin-left:0}
+#tbid-module ul.tbid-meta em{display:block;float:left;width:360px}
+#tbid-module ul.tbid-meta .J_TimeLeft{width:auto;margin-left:0}
+#tbid-module .tbid-detail-price,#tbid-module .tbid-detail-price span{height:32px;line-height:32px}
+#tbid-module .tbid-detail-price strong{position:relative;top:-2px;padding-right:5px;vertical-align:middle;font:400 24px Tahoma,Arial,Helvetica,sans-serif;color:#F50}
+#tbid-module .tbid-key{margin-bottom:10px;border:1px solid #fff;overflow:hidden}
+#tbid-module .tbid-key .tbid-skin{margin-top:10px}
+#tbid-module .tbid-btn-add,#tbid-module .tbid-btn-bid,#tbid-module .tbid-btn-buy,#tbid-module .tbid-btn-over,#tbid-module .tbid-btn-wait{margin-top:20px}
+#tbid-module .tbid-btn-over,#tbid-module .tbid-btn-wait{*margin-right:10px;_margin-right:20px}
+#tbid-module .tbid-btn-add,#tbid-module .tbid-btn-bid,#tbid-module .tbid-btn-buy{+margin-right:30px;_margin-right:60px}
+#tbid-module .tbid-btn-add .paimai-button,#tbid-module .tbid-btn-bid .paimai-button,#tbid-module .tbid-btn-buy .paimai-button,#tbid-module .tbid-btn-over .paimai-button,#tbid-module .tbid-btn-wait .paimai-button{display:inline;width:127px;height:36px;margin-right:0;overflow:hidden;text-indent:-200px;border:none;*padding-left:2000em;*text-indent:0}
+#tbid-module .tbid-btn-bid .paimai-button{background:url(//gtms04.alicdn.com/tps/i4/TB14J9PGFXXXXXYXpXXrcS6IVXX-80-41.png) 0 0 no-repeat;width:80px;height:41px}
+#tbid-module .tbid-btn-wait .paimai-button{background-position:-381px -108px}
+#tbid-module .tbid-btn-container-over{right:200px}
+#tbid-module .tbid-downshelf{line-height:24px;margin-bottom:6px;margin-left:4px;font-weight:700}
+#tbid-module .tbid-downshelf h1{font-size:14px;color:#333;margin-top:3px;margin-bottom:5px}
+#tbid-module .tbid-downshelf .guide{font-size:12px;color:#333}
+#tbid-module .tbid-downshelf .down-guide1{display:block;float:none}
+#tbid-module .down-guide1 span,#tbid-module .down-guide2 span{color:grey;font-weight:400;float:none}
+#tbid-module .down-goto{color:#06C}
+#tbid-module .down-guide2{margin-top:2px}
+#tbid-module .tbid-input-area{width:400px}
+#tbid-module .tbid-key .plus-minus-operation{position:relative;margin-left:-5px;float:none;width:100%;text-align:inherit;zoom:1;*line-height:20px;*height:20px;*width:135px;*vertical-align:text-bottom;_vertical-align:middle}
+#tbid-module .tbid-key .num,#tbid-module .tbid-key .price{vertical-align:middle;float:none;width:auto;text-align:inherit}
+#tbid-module span.plus-minus-operation .minus,#tbid-module span.plus-minus-operation .plus{display:inline-block;height:14px;line-height:14px;overflow:hidden;text-indent:-9999em;text-align:center;width:14px;vertical-align:middle;background:transparent url(//gtms03.alicdn.com/tps/i3/T1j6CoXbxTXXXXXXXX-89-61.png) no-repeat -9999px -9999px;outline:0}
+#tbid-module span.plus-minus-operation a.minus{background-position:0 -47px;_background-position-x:5px;_width:18px}
+#tbid-module span.plus-minus-operation a.plus{background-position:0 -32px}
+#tbid-module .paimai-input{width:90px;height:20px;border:1px solid #c8c8c8;text-align:center;vertical-align:middle;-moz-box-shadow:1px 1px 1px #F0F0F0 inset;-webkit-box-shadow:1px 1px 1px #F0F0F0 inset;box-shadow:1px 1px 1px #F0F0F0 inset}
+#tbid-module .price-input,#tbid-module .quantity-input{margin:0 3px;*margin-top:3px}
+#tbid-module .label-server-error{margin:5px 0 0 0;padding-left:28px;width:auto;*width:170px;height:25px;line-height:25px;border:1px solid #F60;background:#FFF2E9 url(//assets.alicdn.com/img/app/trade/sys_icons.gif) no-repeat 5px 5px}
+#tbid-container .tbid-indicator{margin:0 auto;vertical-align:middle;width:430px;height:184px;position:relative}
+#tbid-container .tbid-indicator a,#tbid-container .tbid-indicator span{position:absolute;top:50%}
+#tbid-container .tbid-indicator a{left:75px}
+#tbid-module .down-guide2{*margin-left:16px}
+.ks-overlay{position:absolute;left:-9999px;top:-9999px}
+.J_PaiDialog{position:absolute;overflow:hidden;background:rgba(51,51,51,.2);background-color:#BFBFBF\9;*background-color:#BFBFBF;_filter:progid:DXImageTransform.Microsoft.gradient(startcolorstr=#3F333333, endcolorstr=#3F333333);padding:5px}
+.J_PaiDialog .ks-dialog-bd,.J_PaiDialog .ks-dialog-hd{background:#fff}
+.J_PaiDialog .ks-dialog-bd{height:100%}
+.J_PaiDialog .ks-dialog-hd .ks-dialog-close{display:block;background-position:-134px -22px;height:15px;width:16px;text-indent:-9999px;position:absolute;top:10px;right:10px}
+.J_PaiDialog .ks-dialog-hd .close-hover,.J_PaiDialog .ks-dialog-hd .ks-dialog-close:hover{cursor:pointer;background-position:-134px -41px}
+#tbid-dutch-decrease .dutch-area,#tbid-dutch-decrease .dutch-time,#tbid-module .tbid-dutch-on .paimai-button{background:url(//gtms02.alicdn.com/tps/i2/T1kwnaXjhkXXbwaqg3-128-111.png) 0 0 no-repeat transparent}
+#tbid-module .tbid-dutch-on .paimai-button.dutch-btn-disabled{background:url(//gw.alicdn.com/tps/TB1ohUaKpXXXXbhXpXXXXXXXXXX-126-35.png) 0 0 no-repeat transparent}
+#tbid-module .tbid-dutch-on .paimai-button{background-position:1px 0;width:130px;height:37px}
+#tbid-module .tbid-dutch-on .paimai-button-hover,#tbid-module .tbid-dutch-on .paimai-button:hover{background-position:1px -38px}
+#tbid-module .tbid-dutch-on .paimai-button.dutch-btn-disabled:hover{background-position:0 0}
+#tbid-module .tbid-dutch-on .paimai-button-bzj.paimai-button:hover{background-position:0 0}
+#tbid-module .tbid-dutch-over .paimai-button,#tbid-module .tbid-dutch-wait .paimai-button{background:url(//gtms01.alicdn.com/tps/i1/T1CJ5jXh8FXXcJKG..-129-87.png) 0 0 no-repeat transparent}
+#tbid-module .tbid-dutch-over .paimai-button{background-position:0 -50px}
+#tbid-module li.tbid-key .dutch-area{background-position:0 -97px;padding-left:12px;margin-left:-4px;vertical-align:middle;color:#FF4336;height:16px}
+#tbid-module li.tbid-key .dutch-time{background-position:-1px -78px;padding-left:18px;margin-left:0;color:#FF4336;height:16px}
+#tbid-dutch-decrease strong{font-size:14px}
+.dutch-area,.dutch-time{line-height:normal;margin-top:10px}
+.tbid-dutch .tbid-holand{display:none}
+#tbid-module ul.tbid-dutch .tbid-key .num{float:left}
+#tbid-module ul.tbid-dutch .J_TimeLeft{margin-left:-4px}
+#tbid-module ul.tbid-dutch .next-stage{margin-left:-1px;_margin-left:2px}
+#tbid-module ul.tbid-dutch .tbid-key .tbid-skin{margin-top:0}
+#tbid-module ul.tbid-dutch #tbid-sau li{margin-top:10px}
+#tbid-module li.tbid-dutch-on,#tbid-module li.tbid-dutch-on:hover{border-color:#FFEDC7}
+#tbid-module li.tbid-dutch-on .tbid-skin,#tbid-module li.tbid-dutch-on:hover .tbid-skin{background:#FFFAEE}
+#tbid-module li.tbid-dutch-over-hover,#tbid-module li.tbid-dutch-over:hover,#tbid-module li.tbid-dutch-wait-hover,#tbid-module li.tbid-dutch-wait:hover{border-color:#EDEDED}
+#tbid-module li.tbid-dutch-over:hover .tbid-skin,#tbid-module li.tbid-dutch-wait:hover .tbid-skin,tbid-module li.tbid-dutch-over-hover .tbid-skin,tbid-module li.tbid-dutch-wait-hover .tbid-skin{background:#F9F9F9}
+#tbid-dutch-offer strong{color:#FF4300;font:400 24px Tahoma,Arial,Helvetica,sans-serif;vertical-align:middle;position:relative;top:-2px;padding-right:5px}
+#tbid-module #tbid-sau #tbid-dutch-decrease{margin-top:10px;border-top:none;*zoom:1}
+#tbid-module #tbid-sau #tbid-dutch-offer{margin-top:10px;margin-bottom:0;*zoom:1}
+#tbid-module .tbid-dutch-over .tbid-btn-container,#tbid-module .tbid-dutch-wait .tbid-btn-container{*right:0}
+#bd .tb-wrap .tb-other{margin-left:20px}
+#bd #detail .tb-other span{margin-right:0;width:66px}
+.tbid-dutch a.btn-cancel{display:block;width:160px;height:28px;text-align:center;color:#666;line-height:28px;border:1px solid #EDEDED;-moz-border-radius:2px;-webkit-border-radius:2px;border-radius:2px;background:#FAFAFA}
+.tbid-dutch .extra .error{color:red;font-size:12px}
+.tbid-dutch .extra .success{color:green;font-size:12px}
+.tbid-dutch a.btn-cancel:hover{color:#3C3C3C;text-decoration:none;border-color:#E0E0E0;background:#F5F5F5}
+body .vc-modal{z-index:99999999}
+.vc-modal .modal-body{font-size:14px;padding:30px;line-height:2}
+.vc-modal .modal-dialog{max-width:360px;min-width:240px}
+#deal-record .table-deal-record .newRecord td{background-color:#FFF3D9;height:31px;border-bottom:none;border-top:1px solid #FBD3AB}
+#deal-record .newRecord a{color:#FF8C1A}
+#deal-record .newRecord a:hover{color:#FF8C1A}
+#tbid-module #tbid-sau .sep{display:inline-block;vertical-align:middle;height:10px;width:1px;overflow:hidden;font-size:0;line-height:20px;margin:0 10px;background:url(//gtms01.alicdn.com/tps/i1/T1RHDUXfxcXXc1ZBMD-192-709.png) no-repeat;background-position:-132px -170px}
+.tbid-delay .tbid-bid-time{height:24px}
+.tbid-delay .tbid-bid-time .J_delay_cycle{position:relative}
+.tbid-delay .tbid-bid-time .J_delay_cycle b{background-color:#fff;border:1px solid #e5e5e5;color:#999;display:none;padding:6px;font-weight:400;line-height:18px;position:absolute;left:0;top:-70px;width:132px;text-align:left}
+.tbid-delay .tbid-bid-time .J_delay_cycle:hover b{display:block}
+#tbid-module .tbid-delay .time-triangle-a,#tbid-module .tbid-delay .time-triangle-b{display:block;border-width:8px;border-style:solid dashed dashed dashed;font-size:0;overflow:hidden;position:absolute;bottom:-16px;left:16px;width:0;height:0;line-height:0}
+#tbid-module .tbid-delay .time-triangle-a{border-color:#e5e5e5 transparent transparent transparent}
+#tbid-module .tbid-delay .time-triangle-b{border-color:#fff transparent transparent transparent;bottom:-14px}
+#tbid-module .tbid-delay .tbid-bid-time .J_delay_cycle a{color:#f50;text-decoration:none}
+#tbid-module .tbid-delay .tbid-bid-time .J_delay_cycle a:hover{text-decoration:underline}
+#tbid-module .tbid-delay .tbid-bid-time .J_delay{position:relative;margin-left:0}
+#tbid-module .tbid-delay .tbid-bid-time .J_delay i{background:url(//gtms04.alicdn.com/tps/i4/T1wC_lFwhcXXa05tbX-22-9.png) no-repeat center center;display:inline-block;*display:none;margin-left:2px;width:22px;height:12px}
+.tbid-delay .j-time-wrap{display:block}
+#tbid-container #tbid-module .tbid-delay .j-time-wrap .J_TimeTitle{margin-right:0}
+.tm-detail-meta #tbid-module .tbid-delay .tbid-bid-time .J_delay_cycle a{color:#35a}
+.tm-detail-meta #tbid-module .tbid-delay .tbid-bid-time .J_delay i{background:url(//gtms01.alicdn.com/tps/i1/T1VDnlFztdXXXtIkza-22-12.png) no-repeat center center;display:inline-block;*display:none;margin-left:2px;width:22px;height:12px}
+body .ks-contentbox,body .ks-overlay-content{height:100%;padding-bottom:0}
+.ks-overlay-close{background:url(//gtms03.alicdn.com/tps/i3/T1QlgHXc0bXXcrjATa-19-36.png) 0 -19px no-repeat;display:block;height:19px;width:18px;text-indent:-9999px;position:absolute;top:22px;right:22px}
+.close-hover,.ks-overlay-close:hover{cursor:pointer;background-position:0 0}
