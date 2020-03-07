@@ -28,4 +28,4 @@ if __name__ == '__main__':
 
     FLAGS, unparsed = parser.parse_known_args()
     proc_data(FLAGS.cityname_zh)
-    print('get data task is done...')
+    print('proc data task is done...')
