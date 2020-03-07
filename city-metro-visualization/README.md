@@ -8,6 +8,7 @@
 - 数据处理及分析
 - 可视化
 - python相关模块：
+    - url: requests
     - excel: pandas
     - plot: matplotlib, folium
 
