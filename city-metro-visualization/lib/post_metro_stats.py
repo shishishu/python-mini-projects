@@ -71,7 +71,7 @@ class MetroStats:
     def plot_stats(self):
         df_exchange = pd.read_excel(os.path.join(self.data_dir, config.FILE_NAME_DICT['exchange']))
         spec_col = 'num_line'
-        title = 'distribution of exchange lines'
+        title = 'distribution_of_exchange_lines'
         self._plot_val_cnt(df_exchange, spec_col, title, annotation=True)
         del df_exchange
 
@@ -80,7 +80,7 @@ class MetroStats:
         spec_cols = list(filter(lambda x: x.startswith('num_'), cols))
         for spec_col in spec_cols:
             limit_distance = spec_col.split('_')[-1]
-            title = 'distribution of adjacent stations within ' + limit_distance
+            title = 'distribution_of_adjacent_stations_within_' + limit_distance
             annotation = True if int(limit_distance.strip('km')) <= 1 else False
             self._plot_val_cnt(df_adj, spec_col, title, annotation=annotation)
         del df_adj
