@@ -13,7 +13,7 @@
     - plot: matplotlib, folium
 
 ### Pipeline
-```py
+```bash
 python proc_data.py --cityname_zh <cityname_zh>
 ```
 change "CITY_NAME" as <cityname_zh> in plot_map.ipynb, and run all cells in jupyter
