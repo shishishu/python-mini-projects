@@ -9,14 +9,13 @@ import requests
 import os
 import pandas as pd
 from conf import config
-from lib.utils import safe_mkdir
 
 
 class GetMetroInfo:
 
     def __init__(self, cityname_zh):
         self.data_dir = os.path.join(config.data_dir, cityname_zh)
-        safe_mkdir(self.data_dir)
+        os.makedirs(self.data_dir, exist_ok=True)
         self.id = config.AMAP_CITY_DICT[cityname_zh]['id']
         self.cityname = config.AMAP_CITY_DICT[cityname_zh]['cityname']
 
