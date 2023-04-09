@@ -1,0 +1,4 @@
+after 1 circle,the train loss is 0.34090
+
+the accuracy of test set is 0.0
+
